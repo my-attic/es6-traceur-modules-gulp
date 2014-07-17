@@ -102,7 +102,7 @@ var $__components_47_my_45_title__ = (function() {
   "use strict";
   var __moduleName = "components/my-title";
   Polymer("my-title", {ready: function() {
-      this.title = "ES6 ROCKS!!!";
+      this.title = "=== ES6 ROCKS!!! I'm @k33g_org ===";
     }});
   return {};
 })();
