@@ -18,5 +18,8 @@ You have to put this in your `index.html` file:
     <script src="js/app/app-build.js"></script>
 
 ##Run it
-
-    node app.js
+    
+type: `gulp`, the watcher transpiles files at each changes
+    
+type: `node app.js` to run the webapp
+    
